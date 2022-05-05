@@ -72,7 +72,7 @@ $ npm start
 ## Support
 
 - Q/A: https://webacademy.pro/amazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact Instructor: [Basir](mailto:fsiddiqui107@gmail.com)
 
 ## Lessons
 
